@@ -190,5 +190,6 @@ class GerenciadorAtivos:
 
     def continuar(self):
         input('Precione ENTER para continuar...')
-
+        
+        
 GerenciadorAtivos()
