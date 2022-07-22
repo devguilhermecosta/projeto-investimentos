@@ -191,6 +191,4 @@ class GerenciadorAtivos:
     def continuar(self):
         input('Precione ENTER para continuar...')
 
-
-if __name__ == '__main__':
-    app = GerenciadorAtivos()
+GerenciadorAtivos()
